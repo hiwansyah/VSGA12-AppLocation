@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppLocation</string>
+    <string name="service_not_available">service not available</string>
+    <string name="no_address_found">no address found</string>
+    <string name="invalid_lat_long_used">invalid lat long used</string>
+    <string name="address_text">"Address: %1$s \n Timestamp: %2$tr"</string>
+    <string name="loading">loading</string>
+    <string name="stop_tracking_location">stop tracking location</string>
+    <string name="start_tracking_location">start tracking location</string>
+    <string name="txtview_hint">text view hint</string>
+    <string name="location_permission_denied">location permission denied</string>
+</resources>
